@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::count << "Hello world!" << std::endl;
+    std::count << "Никто ничего не говорит и ничего не понимает" << std::endl;
     return 0;
 }
